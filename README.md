@@ -1,4 +1,5 @@
 # React + Vite
+for open this click this link https://tushark9.github.io/SpotifyClone/
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
